@@ -1,0 +1,60 @@
+body {
+  background-color: #FFAF43;
+  background-size: cover;
+}
+img.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.button {
+  color: #FFAF43;
+  background-color: #010101;
+  font-weight: bold;
+  text-decoration: none;
+  /* font-family: Serif, Architects_Daughter */
+  padding: 20px 50px;
+  text-align: center;
+  border: 3px solid white;
+  border-radius: 50px;
+
+  /* width: 400px; */
+  margin-right: 50px;
+  margin-left: 350px
+}
+.button:hover{
+  color: #FFAF43;
+}
+.button2 {
+  color: #FFAF43;
+  background-color: #010101;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px 50px;
+  text-align: center;
+  border: 3px solid white;
+  border-radius: 50px;
+
+  /* width: 400px; */
+  margin-right: 50px;
+  margin-left: 50px
+}
+
+  .button3 {
+    color: #FFAF43;
+    background-color: #010101;
+    font-weight: bold;
+    padding: 20px 50px;
+    text-decoration: none;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 50px;
+
+    /* width: 400px; */
+    margin-right: 250px;
+    margin-left: 50px
+}
+
+.ul {
+  list-style-type: none;
+}
